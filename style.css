@@ -1,0 +1,62 @@
+body {
+background-color: rgb(248, 250, 234);
+}
+
+.top {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    text-align: center;
+    font-style: normal;
+    padding-top: 55px;
+    background-image: url();
+}
+
+.heading
+{
+    font-size: 70px;
+}
+
+.blurb {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 30px;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.middle {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;}
+
+
+.pic1 { padding-right: 50%;
+width: 700px;
+height: 600px;}
+
+
+.pic2 { padding-left: 50%;
+    width: 700px;
+    height: 600px;}
+
+
+.centered {
+    position: absolute;
+    top: 80%;
+    right: 62%;
+    color: aliceblue;
+    font-style: italic;
+    transform: translate(-50%, -50%);
+    text-decoration: underline;
+}
+
+.centered2
+
+{
+    position: absolute;
+    left: 1430px;
+    top: 1350px;
+    color: aliceblue;
+    font-style: italic;
+    transform: translate(-50%, -50%);
+    text-decoration: underline;
+}
+

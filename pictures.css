@@ -1,0 +1,13 @@
+.gallery
+    {height: 25cm;
+    width: 25cm;
+    display: none;
+    }
+
+.slide 
+    {display: block;
+    text-align: center;
+    height: 1100px;       
+    width: 1600px;
+    margin-left: 7%;
+    }
